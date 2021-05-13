@@ -14,12 +14,12 @@ In the meantime, I am enjoying some coding and learning about technologies.
 
 *Some of my work includes:*
  * mongoose soft delete plugin [<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px">](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
- * transformation a monolithic application into a microservices architecture [<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="20px">](https://github.com/webipie-dev/backend)
+ * remaking a monolithic application into a microservices architecture [<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="20px">](https://github.com/webipie-dev/backend)
  
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Node Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Node Logo" width="50" height="50"/><img src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png" alt="Nest Logo" width="85" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Nest Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="Nest Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo Logo" width="50" height="50"/><img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="Mongo Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="Mysql Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="Npm Logo" width="70" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Node Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Node Logo" width="50" height="50"/>  <img src="https://blog.theodo.com/static/dfa7994d6389d439e8a14bc09d03326b/a79d3/1_cZXAov35eTfE545EiuGFqQ.png" alt="Nest Logo" width="85" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Nest Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="Nest Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo Logo" width="50" height="50"/>  <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="Mongo Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="Mysql Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="Npm Logo" width="70" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/>
 
 ---
 
@@ -29,7 +29,7 @@ In the meantime, I am enjoying some coding and learning about technologies.
 
 ---
 
-## <img src="https://cdn.worldvectorlogo.com/logos/wordmark-white-medium.svg" width="50px"> Check my recent Articles on Medium!<br>
+## <img src="https://cdn.worldvectorlogo.com/logos/wordmark-white-medium.svg" width="70px"> Check my recent Articles on Medium!<br>
 <a target="_blank" href="https://nour-karoui.medium.com/implementing-soft-delete-in-mongodb-with-mongoose-405c008d0e29">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nour-karoui/0" alt="Mongoose Soft Delete"> </a>
 <a target="_blank" href="https://nour-karoui.medium.com/app-initializer-how-when-where-ee8033413ff3">
@@ -41,7 +41,7 @@ In the meantime, I am enjoying some coding and learning about technologies.
 
 ---
 
-## <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px"> Check my recent NPM Packages!<br>
+## <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="40px"> Check my recent NPM Packages!<br>
 
 * [Encrypting local storage](https://www.npmjs.com/package/storage-encryption)
 * [Mongoose soft delete](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
