@@ -3,19 +3,18 @@
 Yet another girl in the pursuit of happiness and looking for her purpose in this world.
 In the meantime, I am enjoying some coding and learning about technologies.
 
-- <img src="https://user-images.githubusercontent.com/47257753/118144569-83db7a80-b404-11eb-8368-f03b95e05dff.png" width="20px"> I am currently working on [Webipie] (https://www.webipie.com), a website builder that'll shape the e-commerce landscape in Tunisia.
-- <img src="https://user-images.githubusercontent.com/47257753/118146689-c3a36180-b406-11eb-8e23-07a83b8c7437.png" width="15px"> I’m still in the process of learning everything and always will be 🤣
-- <img src="https://user-images.githubusercontent.com/47257753/118146997-0d8c4780-b407-11eb-9572-87f48baa081f.png" width="20px"> I am interested and curious about the entrepreneurial world
+- <img src="https://user-images.githubusercontent.com/47257753/118144569-83db7a80-b404-11eb-8368-f03b95e05dff.png" width="25px"> I am currently working on [Webipie](https://www.webipie.com), a website builder that'll shape the e-commerce landscape in Tunisia.
+- <img src="https://user-images.githubusercontent.com/47257753/118146689-c3a36180-b406-11eb-8e23-07a83b8c7437.png" width="20px"> I’m still in the process of learning everything and always will be !
+- <img src="https://user-images.githubusercontent.com/47257753/118146997-0d8c4780-b407-11eb-9572-87f48baa081f.png" width="25px"> I am interested and curious about the entrepreneurial world
 
 <br />
-
 📫 Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nour-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourkaroui/) [![Mail Badge](https://img.shields.io/badge/-nourkaroui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkaroui1998@gmail.com@gmail.com)
 
 *Some of my work includes:*
- * mongoose soft delete plugin [<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px">] (https://www.npmjs.com/package/soft-delete-plugin-mongoose)
- * transformation a monolithic application into a microservices architecture [<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="20px">] (https://github.com/webipie-dev/backend)
+ * mongoose soft delete plugin [<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px">](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
+ * transformation a monolithic application into a microservices architecture [<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="20px">](https://github.com/webipie-dev/backend)
  
 ---
 🧰 Toolbox
@@ -56,12 +55,12 @@ In the meantime, I am enjoying some coding and learning about technologies.
 
 ---
 
-##<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px"> Check my recent NPM Packages!<br>
+## <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px"> Check my recent NPM Packages!<br>
 
-* [Encrypting local storage] (https://www.npmjs.com/package/storage-encryption)
-* [Mongoose soft delete] (https://www.npmjs.com/package/soft-delete-plugin-mongoose)
+* [Encrypting local storage](https://www.npmjs.com/package/storage-encryption)
+* [Mongoose soft delete](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
 
-
+---
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
