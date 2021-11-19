@@ -11,7 +11,7 @@ In the meantime, I am enjoying some coding and learning about technologies.
 <br />
 📫 Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nour-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourkaroui/) [![Mail Badge](https://img.shields.io/badge/-nourkaroui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkaroui1998@gmail.com@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Nour-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourkaroui/) [![Mail Badge](https://img.shields.io/badge/-nourkaroui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nkaroui1998@gmail.com)
 
 *Some of my work includes:*
  * mongoose soft delete plugin [<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px">](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
