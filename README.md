@@ -3,7 +3,7 @@
 Yet another girl in the pursuit of happiness and looking for her purpose in this world.
 In the meantime, I am enjoying some coding and learning about technologies.
 
-- <img src="https://user-images.githubusercontent.com/47257753/118144569-83db7a80-b404-11eb-8368-f03b95e05dff.png" width="25px"> I am currently working on [Webipie](https://www.webipie.com), a website builder that'll shape the e-commerce landscape in Tunisia.
+- <img src="https://user-images.githubusercontent.com/47257753/118144569-83db7a80-b404-11eb-8368-f03b95e05dff.png" width="25px"> I am currently working on [Webipie](https://www.webipie.me), a website builder that'll reshape the job hunting process.
 - <img src="https://user-images.githubusercontent.com/47257753/118146689-c3a36180-b406-11eb-8e23-07a83b8c7437.png" width="20px"> I’m still in the process of learning everything and always will be !
 - <img src="https://user-images.githubusercontent.com/47257753/118146997-0d8c4780-b407-11eb-9572-87f48baa081f.png" width="25px"> I am interested and curious about the entrepreneurial world
 - <img src="https://user-images.githubusercontent.com/47257753/127242685-b8f69ed3-86ac-487f-a2ee-c13a135a1a31.png" width="25px"> Intrigued about and motivated to learn blockchain
