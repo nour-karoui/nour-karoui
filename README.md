@@ -15,7 +15,7 @@ In the meantime, I am enjoying some coding and learning about technologies.
 
 *Some of my work includes:*
  * mongoose soft delete plugin [<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="20px">](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
- * remaking a monolithic application into a microservices architecture [<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="20px">](https://github.com/webipie-dev/backend)
+ * refactoring a monolithic application into a microservices architecture [<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="20px">](https://github.com/webipie-dev/backend)
  
 ---
 🧰 Toolbox
