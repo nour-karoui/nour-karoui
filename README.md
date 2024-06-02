@@ -3,8 +3,8 @@
 Yet another girl in the pursuit of happiness and looking for her purpose in this world.
 In the meantime, I am enjoying some coding and learning about technologies.
 
-- <img src="https://user-images.githubusercontent.com/47257753/127242685-b8f69ed3-86ac-487f-a2ee-c13a135a1a31.png" width="25px"> I am currently part of [Molecule AG](https://molecule.to/), where we are using the blockchain technology to help researchers fund their projects with securing their intellectual properties through IPNFTs.
-- <img src="https://user-images.githubusercontent.com/47257753/118144569-83db7a80-b404-11eb-8368-f03b95e05dff.png" width="25px"> I, with other talented individuals, implemented [Webipie](https://www.webipie.me), a website builder that'll reshape the job hunting process.
+- <img src="https://user-images.githubusercontent.com/47257753/127242685-b8f69ed3-86ac-487f-a2ee-c13a135a1a31.png" width="25px"> I am currently part of [Molecule AG](https://molecule.to/), where we utilize Blockchain to help researchers fund their projects and secure their intellectual properties through IPNFTs.
+- <img src="https://user-images.githubusercontent.com/47257753/118144569-83db7a80-b404-11eb-8368-f03b95e05dff.png" width="25px"> I, with other talented individuals, implemented [Webipie](https://github.com/webipie-dev/webipie.me), a website builder that'll reshape the job hunting process.
 - <img src="https://user-images.githubusercontent.com/47257753/118146689-c3a36180-b406-11eb-8e23-07a83b8c7437.png" width="20px"> I’m still in the process of learning everything and always will be !
 - <img src="https://user-images.githubusercontent.com/47257753/118146997-0d8c4780-b407-11eb-9572-87f48baa081f.png" width="25px"> I am interested and curious about the entrepreneurial world
 - <img src="https://user-images.githubusercontent.com/47257753/127242685-b8f69ed3-86ac-487f-a2ee-c13a135a1a31.png" width="25px"> Intrigued about and motivated to learn blockchain
@@ -21,8 +21,20 @@ In the meantime, I am enjoying some coding and learning about technologies.
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>   <img src="https://www.ronenagranat.com/assets/images/nestjs.png" alt="Nest Logo" width="85" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="Nest Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="Nest Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo Logo" width="50" height="50"/>   <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="Mongo Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="Mysql Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="Npm Logo" width="70" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/>
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/44a7209b-e429-474c-bdb7-5bef66643df7" alt="Solidity" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/86467e51-3622-4b3e-8e04-5a1032684268" alt="Ethereum" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/1ca9fd45-ad9a-4204-ac9f-3c1ea9f30f8c" alt="Foundry" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/1fa3253e-3e26-4a34-99f8-d91843ced449" alt="JavaScript" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/1cbf0832-79af-441a-84b3-113ee725788f" alt="Typescript" width="50" height="50"/>  
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/461ad0fc-a0b7-437b-9a19-eb12c646a9f4" alt="React" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/37ac99b4-b39b-4b57-8f14-dfb4fe6b2bfa" alt="NextJs" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/93f0ea47-addc-4713-8b74-8b9e1b19ea4e" alt="NodeJs" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/c4eba01a-7a78-4830-a355-1e4bbf639655" alt="Mongo" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/c31d0bd5-fb16-4842-bef3-af758b8782f0" alt="Postgres" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/7428a39a-72f7-4e5c-b755-414f482fd830" alt="GraphQL" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/6b4ea779-684c-448a-b99f-ad75e965b56e" alt="AWS" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/7d542b2f-a344-4660-b0c0-9f4f81e738b0" alt="Npm" width="70" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/82d47239-85fa-446a-a82f-699e06bcdf16" alt="Git" width="50" height="50"/>   
 
 ---
 
@@ -32,7 +44,8 @@ In the meantime, I am enjoying some coding and learning about technologies.
 
 ---
 
-## <img src="https://cdn.worldvectorlogo.com/logos/wordmark-white-medium.svg" width="70px"> Check my recent Articles on Medium!<br>
+## <img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/b1d4391e-96eb-467d-a44b-76caae91e2ba" width="70px"> Check my recent Articles on Medium!<br>
+
 <a target="_blank" href="https://nour-karoui.medium.com/implementing-soft-delete-in-mongodb-with-mongoose-405c008d0e29">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nour-karoui/0" alt="Mongoose Soft Delete"> </a>
 <a target="_blank" href="https://nour-karoui.medium.com/app-initializer-how-when-where-ee8033413ff3">
@@ -51,8 +64,3 @@ In the meantime, I am enjoying some coding and learning about technologies.
 * [Encrypting local storage](https://www.npmjs.com/package/storage-encryption)
 * [Mongoose soft delete](https://www.npmjs.com/package/soft-delete-plugin-mongoose)
 
----
-
-<div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-<div>Icons made by <a href="" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
